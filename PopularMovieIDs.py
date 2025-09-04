@@ -1,0 +1,1 @@
+movie_dict = {"movie:" "Friday(1996)" }
